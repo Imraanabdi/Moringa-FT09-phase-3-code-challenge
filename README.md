@@ -4,7 +4,7 @@ In this code challenge, you will be working with a Magazine domain.
 
 We have three models: `Author`, `Article`, and `Magazine`.
 
- <img src="images/chodechallengedatabase.jpeg" alt="database-schema" width="500" height="300">
+ <img src="images/chodechallengedatabase.jpeg" alt="database-schema" width="800" height="800">
 
 For our purposes, an `Author` has many `Article`s, a `Magazine` has many
 `Article`s, and `Article`s belong to both `Author` and `Magazine`.
